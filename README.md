@@ -46,3 +46,7 @@ A list of communities about web development and design that are powered by [Slac
 
 ## Contribute
 Your contributions and suggestions are :heart: welcome.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/intfrr/awesome-slack/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
